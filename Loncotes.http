@@ -1,0 +1,6 @@
+@Loncotes_HostAddress = http://localhost:5085
+
+GET {{Loncotes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
